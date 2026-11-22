@@ -1,0 +1,10 @@
+# Versions below are the ones this project was actually run with (Python 3.12).
+# pandas 3 needs Python 3.11 or newer.
+pandas==3.0.6
+numpy==2.5.4
+scikit-learn==1.9.1
+matplotlib==3.11.2
+streamlit==1.67.0
+# To open and run the notebook:
+notebook
+ipykernel
