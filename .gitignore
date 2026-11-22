@@ -1,0 +1,7 @@
+# Kaggle data: download it yourself, do not commit it
+data/*.csv
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
